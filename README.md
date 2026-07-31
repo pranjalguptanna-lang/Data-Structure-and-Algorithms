@@ -18,5 +18,10 @@ contains all questions of apna collage dsa sheet
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranjalguptanna-lang/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/pranjalguptanna-lang/Data-Structure-and-Algorithms/tree/master/1768-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/pranjalguptanna-lang/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
